@@ -1,1 +1,4 @@
+   # user modify idea  
 .idea/
+ # ignore class file 
+.class/
