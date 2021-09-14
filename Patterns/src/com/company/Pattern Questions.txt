@@ -1,3 +1,22 @@
+			Basic Tricks 
+
+How to approach:
+
+* Run the outer for loop the no of times you are having the lines 
+
+	no of lines = no of rows =no of times the outerloop will run
+
+
+* Identify for every row number, how many cols are there or 
+
+#Types of element in the column.
+
+*What do you need to print.
+
+Note : Try to find the formula related rows and columns.
+
+
+
 
 1.  *****
     *****
